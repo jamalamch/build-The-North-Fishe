@@ -1,0 +1,83 @@
+{
+"skeleton": { "hash": "0vbZ6Y66Lbk", "spine": "4.2.36" },
+"bones": [
+	{ "name": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "main", "parent": "root" },
+	{ "name": "diappear", "parent": "main", "x": 0.5 },
+	{ "name": "smoke", "parent": "main" }
+],
+"slots": [
+	{ "name": "diappear", "bone": "diappear" },
+	{ "name": "smoke", "bone": "smoke", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"diappear": {
+				"diappear_": {
+					"width": 681,
+					"height": 548,
+					"sequence": { "count": 31, "start": 0, "digits": 2 }
+				}
+			},
+			"smoke": {
+				"smoke": { "width": 176, "height": 140 }
+			}
+		}
+	}
+],
+"animations": {
+	"disappear": {
+		"slots": {
+			"diappear": {
+				"attachment": [
+					{ "name": "diappear_" }
+				]
+			},
+			"smoke": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "smoke" }
+				]
+			}
+		},
+		"bones": {
+			"diappear": {
+				"translate": [
+					{ "x": -20.12, "y": 11.5 }
+				],
+				"scale": [
+					{ "x": 2, "y": 2 }
+				]
+			},
+			"smoke": {
+				"translate": [
+					{ "x": 17.92, "y": -20.4 }
+				],
+				"scale": [
+					{ "x": 6, "y": 6 },
+					{ "time": 0.5, "x": 6.925, "y": 8 },
+					{ "time": 1, "x": 8.208, "y": 10 }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"diappear": {
+					"diappear_": {
+						"sequence": [
+							{ "mode": "once", "delay": 0.0333 }
+						]
+					}
+				}
+			}
+		}
+	}
+}
+}

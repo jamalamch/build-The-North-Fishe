@@ -1,0 +1,232 @@
+scatter.png
+	size: 1047, 523
+	filter: Linear, Linear
+	scale: 0.5
+banner_rays
+	bounds: 2, 246, 300, 275
+	offsets: 82, 12, 470, 291
+bg
+	bounds: 495, 351, 169, 170
+blast_00
+	bounds: 1003, 37, 38, 35
+	offsets: 34, 35, 106, 104
+	rotate: 90
+blast_01
+	bounds: 724, 5, 57, 56
+	offsets: 25, 24, 106, 104
+	rotate: 90
+blast_02
+	bounds: 931, 107, 70, 66
+	offsets: 16, 19, 106, 104
+blast_03
+	bounds: 773, 68, 77, 72
+	offsets: 13, 16, 106, 104
+blast_04
+	bounds: 852, 68, 77, 72
+	offsets: 13, 16, 106, 104
+blast_05
+	bounds: 193, 2, 82, 78
+	offsets: 11, 14, 106, 104
+blast_06
+	bounds: 728, 179, 85, 84
+	offsets: 10, 10, 106, 104
+	rotate: 90
+blast_07
+	bounds: 954, 271, 90, 91
+	offsets: 9, 6, 106, 104
+	rotate: 90
+blast_08
+	bounds: 953, 175, 92, 94
+	offsets: 8, 4, 106, 104
+blast_09
+	bounds: 953, 175, 92, 94
+	offsets: 8, 4, 106, 104
+blast_10
+	bounds: 443, 173, 94, 97
+	offsets: 7, 3, 106, 104
+blast_11
+	bounds: 539, 178, 95, 96
+	offsets: 7, 3, 106, 104
+blast_12
+	bounds: 332, 41, 96, 95
+	offsets: 6, 3, 106, 104
+blast_13
+	bounds: 430, 41, 95, 94
+	offsets: 7, 3, 106, 104
+	rotate: 90
+blast_14
+	bounds: 430, 41, 95, 94
+	offsets: 7, 3, 106, 104
+	rotate: 90
+blast_15
+	bounds: 636, 179, 90, 85
+	offsets: 8, 12, 106, 104
+blast_16
+	bounds: 814, 142, 89, 83
+	offsets: 8, 13, 106, 104
+blast_17
+	bounds: 526, 62, 88, 80
+	offsets: 9, 15, 106, 104
+	rotate: 90
+blast_18
+	bounds: 608, 64, 86, 79
+	offsets: 11, 16, 106, 104
+blast_19
+	bounds: 608, 64, 86, 79
+	offsets: 11, 16, 106, 104
+blinky_01
+	bounds: 1032, 22, 13, 13
+	offsets: 24, 25, 60, 62
+blinky_02
+	bounds: 1003, 9, 27, 26
+	offsets: 17, 19, 60, 62
+blinky_03
+	bounds: 905, 178, 44, 47
+	offsets: 8, 7, 60, 62
+blinky_04
+	bounds: 551, 4, 55, 56
+	offsets: 4, 4, 60, 62
+blinky_05
+	bounds: 608, 2, 60, 61
+	offsets: 0, 0, 60, 62
+	rotate: 90
+blinky_06
+	bounds: 782, 12, 57, 54
+	offsets: 3, 5, 60, 62
+blinky_07
+	bounds: 277, 41, 40, 39
+	offsets: 12, 12, 60, 62
+blinky_08
+	bounds: 983, 77, 26, 28
+	offsets: 18, 18, 60, 62
+blinky_09
+	bounds: 304, 255, 14, 15
+	offsets: 24, 24, 60, 62
+body
+	bounds: 666, 363, 158, 178
+	offsets: 4, 0, 162, 178
+	rotate: 90
+bottom_jaw
+	bounds: 841, 12, 37, 54
+	offsets: 0, 0, 38, 54
+ear_lt
+	bounds: 608, 147, 26, 29
+ear_rt
+	bounds: 905, 147, 24, 29
+frame
+	bounds: 2, 52, 189, 192
+frame_glow_00
+	bounds: 193, 82, 137, 162
+	offsets: 31, 19, 189, 192
+hand
+	bounds: 696, 64, 75, 79
+	offsets: 1, 0, 76, 87
+head
+	bounds: 332, 138, 109, 132
+	offsets: 1, 0, 112, 132
+inner_shadow
+	bounds: 846, 363, 158, 166
+	rotate: 90
+lt_eye
+	bounds: 2, 2, 12, 7
+	offsets: 0, 0, 13, 8
+palm
+	bounds: 671, 2, 60, 51
+	rotate: 90
+particles
+	bounds: 304, 333, 189, 188
+	offsets: 108, 102, 400, 398
+rotaion_00
+	bounds: 277, 2, 135, 37
+	offsets: 46, 13, 226, 63
+rotaion_01
+	bounds: 816, 284, 136, 37
+	offsets: 45, 10, 226, 63
+rotaion_02
+	bounds: 674, 266, 138, 32
+	offsets: 44, 10, 226, 63
+rotaion_03
+	bounds: 1014, 382, 139, 21
+	offsets: 43, 14, 226, 63
+	rotate: 90
+rotaion_04
+	bounds: 674, 300, 140, 20
+	offsets: 43, 15, 226, 63
+rotaion_05
+	bounds: 530, 276, 142, 32
+	offsets: 42, 10, 226, 63
+rotaion_06
+	bounds: 2, 11, 142, 39
+	offsets: 42, 9, 226, 63
+rotaion_07
+	bounds: 530, 310, 141, 39
+	offsets: 43, 12, 226, 63
+rotaion_08
+	bounds: 673, 322, 141, 39
+	offsets: 43, 15, 226, 63
+rotaion_09
+	bounds: 636, 145, 141, 32
+	offsets: 43, 20, 226, 63
+rotaion_10
+	bounds: 443, 152, 139, 19
+	offsets: 44, 28, 226, 63
+rotaion_11
+	bounds: 814, 261, 137, 21
+	offsets: 45, 28, 226, 63
+rotaion_12
+	bounds: 814, 227, 137, 32
+	offsets: 45, 22, 226, 63
+rotaion_13
+	bounds: 816, 323, 136, 38
+	offsets: 45, 16, 226, 63
+rotaion_14
+	bounds: 414, 2, 135, 37
+	offsets: 46, 13, 226, 63
+rt_eye
+	bounds: 495, 340, 13, 9
+	offsets: 1, 0, 14, 9
+scatter
+	bounds: 304, 272, 224, 59
+	offsets: 1, 3, 226, 63
+sheen_00
+	bounds: 1032, 10, 13, 10
+	offsets: 57, 20, 226, 63
+sheen_01
+	bounds: 972, 2, 27, 28
+	offsets: 57, 17, 226, 63
+sheen_02
+	bounds: 1011, 85, 37, 29
+	offsets: 59, 17, 226, 63
+	rotate: 90
+sheen_03
+	bounds: 941, 28, 47, 29
+	offsets: 60, 17, 226, 63
+	rotate: 90
+sheen_04
+	bounds: 880, 16, 50, 29
+	offsets: 71, 18, 226, 63
+	rotate: 90
+sheen_05
+	bounds: 931, 77, 50, 28
+	offsets: 84, 18, 226, 63
+sheen_06
+	bounds: 1003, 124, 49, 28
+	offsets: 98, 18, 226, 63
+	rotate: 90
+sheen_07
+	bounds: 911, 17, 49, 28
+	offsets: 111, 18, 226, 63
+	rotate: 90
+sheen_08
+	bounds: 972, 32, 43, 29
+	offsets: 124, 17, 226, 63
+	rotate: 90
+sheen_09
+	bounds: 779, 150, 33, 27
+	offsets: 136, 19, 226, 63
+sheen_10
+	bounds: 666, 351, 10, 5
+	offsets: 148, 39, 226, 63
+	rotate: 90
+upper_jaw
+	bounds: 146, 2, 40, 48

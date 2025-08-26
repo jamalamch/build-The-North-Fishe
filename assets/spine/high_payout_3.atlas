@@ -1,0 +1,52 @@
+high_payout_3.png
+	size: 802, 284
+	filter: Linear, Linear
+	scale: 0.5
+banner_rays
+	bounds: 2, 7, 300, 275
+	offsets: 82, 12, 470, 291
+blinky_01
+	bounds: 360, 13, 13, 13
+	offsets: 24, 25, 60, 62
+blinky_02
+	bounds: 434, 3, 27, 26
+	offsets: 17, 19, 60, 62
+	rotate: 90
+blinky_03
+	bounds: 519, 44, 44, 47
+	offsets: 8, 7, 60, 62
+blinky_04
+	bounds: 462, 33, 55, 56
+	offsets: 4, 4, 60, 62
+blinky_05
+	bounds: 344, 28, 60, 61
+	offsets: 0, 0, 60, 62
+blinky_06
+	bounds: 406, 32, 57, 54
+	offsets: 3, 5, 60, 62
+	rotate: 90
+blinky_07
+	bounds: 519, 2, 40, 39
+	offsets: 12, 12, 60, 62
+	rotate: 90
+blinky_08
+	bounds: 406, 2, 26, 28
+	offsets: 18, 18, 60, 62
+blinky_09
+	bounds: 344, 11, 14, 15
+	offsets: 24, 24, 60, 62
+chain
+	bounds: 304, 12, 38, 77
+frame
+	bounds: 304, 91, 185, 191
+frame_glow_00
+	bounds: 681, 4, 105, 109
+	offsets: 40, 41, 185, 191
+	rotate: 90
+hook
+	bounds: 681, 111, 119, 171
+	offsets: 1, 0, 120, 171
+particles
+	bounds: 491, 93, 189, 188
+	offsets: 108, 102, 400, 398
+	rotate: 90

@@ -1,0 +1,96 @@
+transition.png
+	size: 2016, 658
+	filter: Linear, Linear
+	scale: 0.5
+transition_00
+	bounds: 1745, 327, 1, 1
+transition_01
+	bounds: 1912, 445, 211, 35
+	offsets: 48, 1, 292, 165
+	rotate: 90
+transition_02
+	bounds: 1949, 460, 196, 31
+	offsets: 32, 111, 292, 165
+	rotate: 90
+transition_03
+	bounds: 1745, 76, 269, 135
+	offsets: 8, 28, 292, 165
+transition_04
+	bounds: 1457, 2, 279, 162
+	offsets: 10, 1, 292, 165
+transition_05
+	bounds: 1748, 213, 249, 152
+	offsets: 18, 11, 292, 165
+transition_06
+	bounds: 1457, 166, 286, 162
+	offsets: 4, 1, 292, 165
+transition_07
+	bounds: 2, 494, 289, 162
+	offsets: 1, 1, 292, 165
+transition_08
+	bounds: 2, 330, 289, 162
+	offsets: 1, 1, 292, 165
+transition_09
+	bounds: 293, 494, 289, 162
+	offsets: 1, 1, 292, 165
+transition_10
+	bounds: 2, 166, 289, 162
+	offsets: 1, 1, 292, 165
+transition_11
+	bounds: 293, 330, 289, 162
+	offsets: 1, 1, 292, 165
+transition_12
+	bounds: 584, 494, 289, 162
+	offsets: 1, 1, 292, 165
+transition_13
+	bounds: 2, 2, 289, 162
+	offsets: 1, 1, 292, 165
+transition_14
+	bounds: 293, 166, 289, 162
+	offsets: 1, 1, 292, 165
+transition_15
+	bounds: 584, 330, 289, 162
+	offsets: 1, 1, 292, 165
+transition_16
+	bounds: 875, 494, 289, 162
+	offsets: 1, 1, 292, 165
+transition_17
+	bounds: 293, 2, 289, 162
+	offsets: 1, 1, 292, 165
+transition_18
+	bounds: 584, 166, 289, 162
+	offsets: 1, 1, 292, 165
+transition_19
+	bounds: 875, 330, 289, 162
+	offsets: 1, 1, 292, 165
+transition_20
+	bounds: 1166, 494, 289, 162
+	offsets: 1, 1, 292, 165
+transition_21
+	bounds: 584, 2, 289, 162
+	offsets: 1, 1, 292, 165
+transition_22
+	bounds: 875, 166, 289, 162
+	offsets: 1, 1, 292, 165
+transition_23
+	bounds: 1166, 330, 289, 162
+	offsets: 1, 1, 292, 165
+transition_24
+	bounds: 1457, 494, 289, 162
+	offsets: 1, 1, 292, 165
+transition_25
+	bounds: 875, 2, 289, 162
+	offsets: 1, 1, 292, 165
+transition_26
+	bounds: 1166, 166, 289, 162
+	offsets: 1, 1, 292, 165
+transition_27
+	bounds: 1457, 330, 289, 162
+	offsets: 1, 1, 292, 165
+transition_28
+	bounds: 1748, 367, 289, 162
+	offsets: 1, 1, 292, 165
+	rotate: 90
+transition_29
+	bounds: 1166, 2, 289, 162
+	offsets: 1, 1, 292, 165

@@ -1,0 +1,33 @@
+extra_freespins.png
+	size: 1594, 1029
+	filter: Linear, Linear
+	scale: 0.5
+Ice
+	bounds: 2, 393, 961, 634
+Paper
+	bounds: 965, 182, 845, 563
+	rotate: 90
+Path 128
+	bounds: 1530, 378, 649, 62
+	rotate: 90
+Path 129
+	bounds: 620, 122, 645, 58
+	offsets: 1, 0, 646, 58
+Path 140
+	bounds: 417, 15, 583, 31
+Path 141
+	bounds: 1002, 18, 579, 28
+Snow Flake Sequence 1
+	bounds: 620, 186, 60, 60
+are now x10
+	bounds: 1267, 132, 252, 48
+	offsets: 0, 2, 252, 50
+bear
+	bounds: 2, 2, 389, 413
+	rotate: 90
+extra freespins
+	bounds: 620, 48, 590, 72
+hook
+	bounds: 417, 102, 201, 289
+wild
+	bounds: 620, 248, 160, 143

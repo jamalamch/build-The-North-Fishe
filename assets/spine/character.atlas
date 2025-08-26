@@ -1,0 +1,194 @@
+character.png
+	size: 2012, 774
+	filter: Linear, Linear
+	scale: 0.5
+fur
+	bounds: 1618, 545, 227, 145
+	rotate: 90
+glow_00
+	bounds: 1435, 407, 131, 224
+	offsets: 10, 20, 151, 269
+	rotate: 90
+glow_01
+	bounds: 1211, 404, 132, 222
+	offsets: 10, 20, 151, 269
+	rotate: 90
+glow_02
+	bounds: 773, 402, 133, 219
+	offsets: 10, 20, 151, 269
+	rotate: 90
+glow_03
+	bounds: 554, 400, 134, 217
+	offsets: 10, 20, 151, 269
+	rotate: 90
+glow_04
+	bounds: 994, 402, 133, 215
+	offsets: 10, 20, 151, 269
+	rotate: 90
+glow_05
+	bounds: 1661, 413, 130, 213
+	offsets: 10, 20, 151, 269
+	rotate: 90
+glow_06
+	bounds: 1886, 559, 124, 213
+	offsets: 11, 19, 151, 269
+glow_07
+	bounds: 1884, 158, 119, 214
+	offsets: 11, 19, 151, 269
+glow_08
+	bounds: 1684, 195, 119, 216
+	offsets: 11, 19, 151, 269
+glow_09
+	bounds: 1765, 552, 119, 220
+	offsets: 11, 19, 151, 269
+glow_10
+	bounds: 1564, 181, 118, 224
+	offsets: 12, 19, 151, 269
+glow_11
+	bounds: 1498, 544, 118, 228
+	offsets: 12, 19, 151, 269
+glow_12
+	bounds: 1377, 540, 119, 232
+	offsets: 12, 19, 151, 269
+glow_13
+	bounds: 813, 165, 121, 235
+	offsets: 11, 19, 151, 269
+glow_14
+	bounds: 878, 537, 122, 235
+	offsets: 11, 19, 151, 269
+glow_15
+	bounds: 628, 536, 122, 236
+	offsets: 11, 19, 151, 269
+glow_16
+	bounds: 752, 537, 124, 235
+	offsets: 10, 19, 151, 269
+glow_17
+	bounds: 562, 163, 124, 235
+	offsets: 10, 19, 151, 269
+glow_18
+	bounds: 936, 166, 124, 234
+	offsets: 10, 19, 151, 269
+glow_19
+	bounds: 1062, 166, 124, 234
+	offsets: 10, 19, 151, 269
+glow_20
+	bounds: 1002, 538, 124, 234
+	offsets: 10, 19, 151, 269
+glow_21
+	bounds: 688, 163, 123, 235
+	offsets: 11, 19, 151, 269
+glow_22
+	bounds: 312, 148, 123, 236
+	offsets: 11, 19, 151, 269
+glow_23
+	bounds: 437, 155, 123, 236
+	offsets: 11, 19, 151, 269
+glow_24
+	bounds: 503, 536, 123, 236
+	offsets: 11, 19, 151, 269
+glow_25
+	bounds: 1128, 538, 123, 234
+	offsets: 11, 20, 151, 269
+glow_26
+	bounds: 1188, 167, 122, 233
+	offsets: 11, 20, 151, 269
+glow_27
+	bounds: 1253, 540, 122, 232
+	offsets: 11, 20, 151, 269
+glow_28
+	bounds: 1312, 172, 122, 230
+	offsets: 11, 20, 151, 269
+glow_29
+	bounds: 1436, 178, 126, 227
+	offsets: 11, 20, 151, 269
+hand_lt
+	bounds: 240, 478, 143, 294
+	offsets: 2, 0, 145, 294
+hand_rt
+	bounds: 385, 499, 116, 273
+head
+	bounds: 1886, 374, 121, 183
+legs
+	bounds: 2, 48, 308, 335
+	offsets: 0, 0, 308, 338
+snow_debris_00
+	bounds: 312, 59, 62, 87
+	offsets: 63, 114, 194, 212
+snow_debris_01
+	bounds: 1701, 8, 96, 148
+	offsets: 47, 53, 194, 212
+snow_debris_02
+	bounds: 903, 3, 119, 160
+	offsets: 52, 41, 194, 212
+snow_debris_03
+	bounds: 626, 2, 128, 159
+	offsets: 51, 42, 194, 212
+snow_debris_04
+	bounds: 394, 3, 143, 162
+	offsets: 44, 39, 194, 212
+	rotate: 90
+snow_debris_05
+	bounds: 1115, 6, 158, 157
+	offsets: 36, 44, 194, 212
+	rotate: 90
+snow_debris_06
+	bounds: 1353, 6, 82, 164
+	offsets: 67, 37, 194, 212
+snow_debris_07
+	bounds: 240, 386, 90, 154
+	offsets: 62, 47, 194, 212
+	rotate: 90
+snow_debris_08
+	bounds: 1024, 2, 89, 162
+	offsets: 65, 39, 194, 212
+snow_debris_09
+	bounds: 1437, 20, 73, 156
+	offsets: 75, 45, 194, 212
+snow_debris_10
+	bounds: 1805, 259, 77, 152
+	offsets: 71, 49, 194, 212
+snow_debris_11
+	bounds: 756, 2, 74, 159
+	offsets: 75, 42, 194, 212
+snow_debris_12
+	bounds: 832, 2, 69, 161
+	offsets: 75, 40, 194, 212
+snow_debris_13
+	bounds: 1570, 24, 71, 155
+	offsets: 74, 46, 194, 212
+snow_debris_14
+	bounds: 396, 393, 104, 156
+	offsets: 44, 45, 194, 212
+	rotate: 90
+snow_debris_15
+	bounds: 1274, 9, 77, 156
+	offsets: 73, 45, 194, 212
+snow_debris_16
+	bounds: 558, 2, 66, 151
+	offsets: 72, 50, 194, 212
+snow_debris_17
+	bounds: 1512, 20, 56, 156
+	offsets: 72, 45, 194, 212
+snow_debris_18
+	bounds: 1643, 25, 56, 154
+	offsets: 72, 46, 194, 212
+snow_debris_19
+	bounds: 1799, 10, 58, 146
+	offsets: 72, 45, 194, 212
+snow_debris_20
+	bounds: 2, 4, 42, 146
+	offsets: 72, 41, 194, 212
+	rotate: 90
+snow_debris_21
+	bounds: 150, 4, 42, 125
+	offsets: 72, 51, 194, 212
+	rotate: 90
+snow_debris_22
+	bounds: 277, 5, 41, 115
+	offsets: 72, 54, 194, 212
+	rotate: 90
+snow_debris_23
+	bounds: 1859, 41, 41, 115
+	offsets: 71, 52, 194, 212
+torso
+	bounds: 2, 385, 236, 387

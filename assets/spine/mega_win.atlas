@@ -1,0 +1,137 @@
+mega_win.png
+	size: 1323, 1025
+	filter: Linear, Linear
+	scale: 0.5
+banner_rays
+	bounds: 730, 163, 144, 137
+	offsets: 50, 6, 236, 148
+fish1
+	bounds: 1126, 296, 149, 92
+fish2
+	bounds: 903, 818, 190, 100
+fish5
+	bounds: 903, 920, 192, 103
+ice1
+	bounds: 730, 302, 450, 135
+	rotate: 90
+ice2
+	bounds: 2, 408, 726, 344
+ice3
+	bounds: 2, 754, 899, 269
+mega
+	bounds: 2, 221, 661, 185
+mega_fx/mega_0
+	bounds: 903, 754, 214, 62
+	offsets: 16, 12, 250, 84
+mega_fx/mega_1
+	bounds: 1069, 37, 215, 62
+	offsets: 16, 12, 250, 84
+mega_fx/mega_10
+	bounds: 1097, 895, 221, 62
+	offsets: 15, 12, 250, 84
+mega_fx/mega_11
+	bounds: 867, 309, 220, 62
+	offsets: 15, 12, 250, 84
+	rotate: 90
+mega_fx/mega_12
+	bounds: 665, 186, 220, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_13
+	bounds: 593, 2, 217, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_14
+	bounds: 658, 98, 217, 63
+	offsets: 15, 11, 250, 84
+mega_fx/mega_15
+	bounds: 658, 33, 217, 63
+	offsets: 15, 11, 250, 84
+mega_fx/mega_16
+	bounds: 877, 90, 217, 61
+	offsets: 15, 12, 250, 84
+	rotate: 90
+mega_fx/mega_17
+	bounds: 1126, 390, 217, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_18
+	bounds: 1191, 610, 217, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_19
+	bounds: 527, 2, 217, 64
+	offsets: 15, 10, 250, 84
+	rotate: 90
+mega_fx/mega_2
+	bounds: 1256, 391, 216, 62
+	offsets: 16, 12, 250, 84
+	rotate: 90
+mega_fx/mega_20
+	bounds: 1069, 231, 216, 63
+	offsets: 15, 11, 250, 84
+mega_fx/mega_21
+	bounds: 1005, 92, 217, 62
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_22
+	bounds: 1191, 391, 217, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_23
+	bounds: 940, 92, 217, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_24
+	bounds: 1256, 609, 218, 62
+	offsets: 15, 12, 250, 84
+	rotate: 90
+mega_fx/mega_25
+	bounds: 1126, 609, 218, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_26
+	bounds: 1062, 533, 219, 62
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_27
+	bounds: 997, 533, 219, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_28
+	bounds: 1095, 829, 219, 64
+	offsets: 15, 10, 250, 84
+mega_fx/mega_29
+	bounds: 931, 533, 219, 64
+	offsets: 15, 10, 250, 84
+	rotate: 90
+mega_fx/mega_3
+	bounds: 1069, 166, 217, 63
+	offsets: 16, 11, 250, 84
+mega_fx/mega_4
+	bounds: 1069, 101, 217, 63
+	offsets: 16, 11, 250, 84
+mega_fx/mega_5
+	bounds: 1061, 312, 219, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_6
+	bounds: 931, 311, 220, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_7
+	bounds: 996, 311, 220, 63
+	offsets: 15, 11, 250, 84
+	rotate: 90
+mega_fx/mega_8
+	bounds: 867, 531, 221, 62
+	offsets: 15, 12, 250, 84
+	rotate: 90
+mega_fx/mega_9
+	bounds: 1097, 959, 221, 64
+	offsets: 15, 10, 250, 84
+placeholder
+	bounds: 1320, 1022, 1, 1
+win
+	bounds: 2, 32, 523, 187
+	offsets: 0, 0, 523, 188

@@ -1,0 +1,7 @@
+hook.png
+	size: 151, 1096
+	filter: Linear, Linear
+	scale: 0.5
+hook
+	bounds: 2, 2, 147, 1092
+	offsets: 1, 0, 148, 1092

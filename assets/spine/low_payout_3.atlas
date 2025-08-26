@@ -1,0 +1,66 @@
+low_payout_3.png
+	size: 1481, 182
+	filter: Linear, Linear
+	scale: 0.5
+Q
+	bounds: 2, 40, 127, 140
+fx/Q_0
+	bounds: 131, 92, 88, 88
+fx/Q_1
+	bounds: 221, 92, 88, 88
+fx/Q_10
+	bounds: 311, 92, 88, 88
+fx/Q_11
+	bounds: 401, 92, 88, 88
+fx/Q_12
+	bounds: 491, 92, 88, 88
+fx/Q_13
+	bounds: 581, 92, 88, 88
+fx/Q_14
+	bounds: 671, 92, 88, 88
+fx/Q_15
+	bounds: 761, 92, 88, 88
+fx/Q_16
+	bounds: 851, 92, 88, 88
+fx/Q_17
+	bounds: 941, 92, 88, 88
+fx/Q_18
+	bounds: 1031, 92, 88, 88
+fx/Q_19
+	bounds: 1121, 92, 88, 88
+fx/Q_2
+	bounds: 1211, 92, 88, 88
+fx/Q_20
+	bounds: 1301, 92, 88, 88
+fx/Q_21
+	bounds: 1391, 92, 88, 88
+fx/Q_22
+	bounds: 131, 2, 88, 88
+fx/Q_23
+	bounds: 221, 2, 88, 88
+fx/Q_24
+	bounds: 311, 2, 88, 88
+fx/Q_25
+	bounds: 401, 2, 88, 88
+fx/Q_26
+	bounds: 491, 2, 88, 88
+fx/Q_27
+	bounds: 581, 2, 88, 88
+fx/Q_28
+	bounds: 671, 2, 88, 88
+fx/Q_29
+	bounds: 761, 2, 88, 88
+fx/Q_3
+	bounds: 851, 2, 88, 88
+fx/Q_4
+	bounds: 941, 2, 88, 88
+fx/Q_5
+	bounds: 1031, 2, 88, 88
+fx/Q_6
+	bounds: 1121, 2, 88, 88
+fx/Q_7
+	bounds: 1211, 2, 88, 88
+fx/Q_8
+	bounds: 1301, 2, 88, 88
+fx/Q_9
+	bounds: 1391, 2, 88, 88

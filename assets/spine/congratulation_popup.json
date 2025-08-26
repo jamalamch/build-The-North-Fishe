@@ -1,0 +1,841 @@
+{
+"skeleton": { "hash": "Q5XeWFwOz3U", "spine": "4.2.35", "x": -961, "y": -642, "width": 1921, "height": 1267 },
+"bones": [
+	{ "name": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "Ice", "parent": "root", "x": -0.5, "y": -8.5 },
+	{ "name": "placeholder", "parent": "root", "x": -11, "y": -100 },
+	{ "name": "Paper", "parent": "root", "x": -1.5, "y": -6.5 },
+	{ "name": "Path 126", "parent": "root", "x": -1.5, "y": 172 },
+	{ "name": "Path 129", "parent": "root", "x": -2.5, "y": 366.5 },
+	{ "name": "Path 141", "parent": "root", "x": -4.5, "y": -415.5 },
+	{ "name": "Snow Flake Sequence 1", "parent": "root", "x": -872.38, "y": 295.44 },
+	{ "name": "Snow Flake Sequence 2", "parent": "root", "x": -834.08, "y": 470.94 },
+	{ "name": "Snow Flake Sequence 3", "parent": "root", "x": 860.3, "y": 541.14 },
+	{ "name": "Snow Flake Sequence 4", "parent": "root", "x": 809.24, "y": 273.11 },
+	{ "name": "Snow Flake Sequence 5", "parent": "root", "x": 863.49, "y": -26.84 },
+	{ "name": "Snow Flake Sequence 6", "parent": "root", "x": -834.08, "y": -33.22 },
+	{ "name": "Snow Flake Sequence 7", "parent": "root", "x": -10.83, "y": 368.83 },
+	{ "name": "Snow Flake Sequence 8", "parent": "root", "x": -444.79, "y": 566.67 },
+	{ "name": "Snow Flake Sequence 9", "parent": "root", "x": 432.71, "y": 493.28 },
+	{ "name": "Snow Flake Sequence 10", "parent": "root", "x": -320.35, "y": 56.12 },
+	{ "name": "Snow Flake Sequence 11", "parent": "root", "x": 595.45, "y": 129.51 }
+],
+"slots": [
+	{ "name": "Ice", "bone": "Ice", "attachment": "Ice" },
+	{ "name": "Ice2", "bone": "Ice", "blend": "screen" },
+	{ "name": "Paper", "bone": "Paper", "attachment": "Paper" },
+	{ "name": "Path 128", "bone": "Path 129", "attachment": "Path 128" },
+	{ "name": "Path 129", "bone": "Path 129", "attachment": "Path 129" },
+	{ "name": "Path 130", "bone": "Path 129", "blend": "additive" },
+	{ "name": "Path 140", "bone": "Path 141", "attachment": "Path 140" },
+	{ "name": "Path 141", "bone": "Path 141", "attachment": "Path 141" },
+	{ "name": "Path 125", "bone": "Path 126", "attachment": "Path 125" },
+	{ "name": "Path 126", "bone": "Path 126", "attachment": "Path 126" },
+	{ "name": "Path 127", "bone": "Path 126", "blend": "screen" },
+	{ "name": "placeholder", "bone": "placeholder", "attachment": "placeholder" },
+	{ "name": "Snow Flake Sequence 1", "bone": "Snow Flake Sequence 1", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 3", "bone": "Snow Flake Sequence 2", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 11", "bone": "Snow Flake Sequence 6", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 5", "bone": "Snow Flake Sequence 3", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 13", "bone": "Snow Flake Sequence 7", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 15", "bone": "Snow Flake Sequence 8", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 19", "bone": "Snow Flake Sequence 10", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 17", "bone": "Snow Flake Sequence 9", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 21", "bone": "Snow Flake Sequence 11", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 7", "bone": "Snow Flake Sequence 4", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 9", "bone": "Snow Flake Sequence 5", "color": "00d9ffff", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 2", "bone": "Snow Flake Sequence 1", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 4", "bone": "Snow Flake Sequence 2", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 12", "bone": "Snow Flake Sequence 6", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 6", "bone": "Snow Flake Sequence 3", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 14", "bone": "Snow Flake Sequence 7", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 16", "bone": "Snow Flake Sequence 8", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 20", "bone": "Snow Flake Sequence 10", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 18", "bone": "Snow Flake Sequence 9", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 22", "bone": "Snow Flake Sequence 11", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 8", "bone": "Snow Flake Sequence 4", "color": "00d9ffff", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 10", "bone": "Snow Flake Sequence 5", "color": "00d9ffff", "blend": "additive" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Ice": {
+				"Ice": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 3, 0, 1, 2, 3 ],
+					"vertices": [ 960.5, -633.5, -960.5, -633.5, -960.5, 633.5, 960.5, 633.5 ],
+					"hull": 4
+				}
+			},
+			"Ice2": {
+				"Ice": { "width": 1921, "height": 1267 }
+			},
+			"Paper": {
+				"Paper": { "width": 1689, "height": 1125 }
+			},
+			"Path 125": {
+				"Path 125": { "x": -1.5, "width": 1194, "height": 146 }
+			},
+			"Path 126": {
+				"Path 126": { "width": 1177, "height": 132 }
+			},
+			"Path 127": {
+				"Path 126": { "width": 1177, "height": 132 }
+			},
+			"Path 128": {
+				"Path 128": { "x": 0.5, "width": 1298, "height": 123 }
+			},
+			"Path 129": {
+				"Path 129": { "width": 1291, "height": 115 }
+			},
+			"Path 130": {
+				"Path 129": { "width": 1291, "height": 115 }
+			},
+			"Path 140": {
+				"Path 140": { "y": 0.5, "width": 1165, "height": 62 }
+			},
+			"Path 141": {
+				"Path 141": { "width": 1157, "height": 55 }
+			},
+			"placeholder": {
+				"placeholder": { "width": 1, "height": 1 }
+			},
+			"Snow Flake Sequence 1": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 2": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 3": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 4": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 5": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 6": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 7": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 8": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 9": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 10": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 11": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 12": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 13": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 14": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 15": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 16": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 17": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 18": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 19": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 20": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 21": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 22": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			}
+		}
+	}
+],
+"animations": {
+	"in": {
+		"slots": {
+			"Ice": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Ice2": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Paper": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 125": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 126": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 127": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 128": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 129": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 130": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 140": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Path 141": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"placeholder": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Ice": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"placeholder": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"Paper": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"Path 126": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"Path 129": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"Path 141": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			}
+		}
+	},
+	"loop": {
+		"slots": {
+			"Ice2": {
+				"rgba": [
+					{
+						"color": "ffffff00",
+						"curve": [ 0.167, 1, 0.333, 0, 0.167, 1, 0.333, 0.96, 0.167, 1, 0.333, 1, 0.167, 0, 0.333, 0.6 ]
+					},
+					{
+						"time": 0.5,
+						"color": "00f4ff98",
+						"curve": [ 0.667, 0, 0.833, 1, 0.667, 0.96, 0.833, 1, 0.667, 1, 0.833, 1, 0.667, 0.6, 0.833, 0 ]
+					},
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "Ice" }
+				]
+			},
+			"Path 127": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.5, "color": "ff0000e5" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "Path 126" }
+				]
+			},
+			"Path 130": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.5, "color": "00eaff71" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "Path 129" }
+				]
+			},
+			"Snow Flake Sequence 1": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 2": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 3": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 4": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 5": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 6": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 7": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 8": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 9": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 10": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 11": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 12": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 13": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 14": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 15": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 16": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 17": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 18": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 19": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 20": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 21": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			},
+			"Snow Flake Sequence 22": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				],
+				"attachment": [
+					{ "name": "Snow Flake Sequence 1" }
+				]
+			}
+		},
+		"bones": {
+			"Ice": {
+				"translate": [
+					{
+						"curve": [ 0.167, 0, 0.333, 0, 0.167, 0, 0.333, 22.29 ]
+					},
+					{
+						"time": 0.5,
+						"y": 22.29,
+						"curve": [ 0.667, 0, 0.833, 0, 0.667, 22.29, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Paper": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.05, 0.167, 1, 0.333, 1.05 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.667, 1.05, 0.833, 1, 0.667, 1.05, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Path 129": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.1, 0.167, 1, 0.333, 1.1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.667, 1.1, 0.833, 1, 0.667, 1.1, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Path 126": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.05, 0.167, 1, 0.333, 1.05 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.667, 1.05, 0.833, 1, 0.667, 1.05, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Path 141": {
+				"translate": [
+					{
+						"curve": [ 0.167, 0, 0.333, 0, 0.167, 0, 0.333, 12.63 ]
+					},
+					{
+						"time": 0.5,
+						"y": 12.63,
+						"curve": [ 0.667, 0, 0.833, 0, 0.667, 12.63, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Snow Flake Sequence 1": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 2": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 3": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 4": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 5": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 6": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 7": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 8": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 9": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 10": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			},
+			"Snow Flake Sequence 11": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": -70.55 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -398.87 }
+				]
+			}
+		}
+	},
+	"out": {
+		"slots": {
+			"Ice": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Ice2": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Paper": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 125": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 126": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 127": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 128": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 129": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 130": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 140": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Path 141": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"placeholder": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

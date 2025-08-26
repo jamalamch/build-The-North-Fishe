@@ -1,0 +1,117 @@
+super_win.png
+	size: 1431, 998
+	filter: Linear, Linear
+	scale: 0.5
+banner_rays
+	bounds: 745, 254, 144, 137
+	offsets: 50, 6, 236, 148
+fish3
+	bounds: 730, 393, 332, 196
+	rotate: 90
+fish4
+	bounds: 454, 84, 209, 115
+ice1
+	bounds: 2, 64, 450, 135
+ice2
+	bounds: 2, 381, 726, 344
+ice3
+	bounds: 2, 727, 899, 269
+placeholder
+	bounds: 1428, 995, 1, 1
+super
+	bounds: 2, 201, 741, 178
+super_fx/super_0
+	bounds: 1112, 80, 238, 57
+	offsets: 16, 14, 267, 84
+super_fx/super_1
+	bounds: 1177, 686, 239, 59
+	offsets: 16, 12, 267, 84
+super_fx/super_10
+	bounds: 1176, 564, 244, 58
+	offsets: 10, 13, 267, 84
+super_fx/super_11
+	bounds: 928, 380, 245, 58
+	offsets: 10, 13, 267, 84
+super_fx/super_12
+	bounds: 806, 7, 245, 58
+	offsets: 10, 13, 267, 84
+	rotate: 90
+super_fx/super_13
+	bounds: 1140, 260, 246, 57
+	offsets: 10, 13, 267, 84
+super_fx/super_14
+	bounds: 928, 625, 246, 59
+	offsets: 10, 13, 267, 84
+super_fx/super_15
+	bounds: 1175, 441, 245, 59
+	offsets: 11, 13, 267, 84
+super_fx/super_16
+	bounds: 928, 564, 246, 59
+	offsets: 10, 13, 267, 84
+super_fx/super_17
+	bounds: 2, 2, 247, 60
+	offsets: 9, 12, 267, 84
+super_fx/super_18
+	bounds: 903, 747, 247, 60
+	offsets: 9, 12, 267, 84
+super_fx/super_19
+	bounds: 1152, 747, 247, 60
+	offsets: 9, 12, 267, 84
+super_fx/super_2
+	bounds: 492, 23, 239, 59
+	offsets: 16, 12, 267, 84
+super_fx/super_20
+	bounds: 928, 502, 245, 60
+	offsets: 10, 12, 267, 84
+super_fx/super_21
+	bounds: 928, 440, 245, 60
+	offsets: 10, 12, 267, 84
+super_fx/super_22
+	bounds: 1175, 380, 245, 59
+	offsets: 10, 13, 267, 84
+super_fx/super_23
+	bounds: 745, 7, 245, 59
+	offsets: 10, 13, 267, 84
+	rotate: 90
+super_fx/super_24
+	bounds: 866, 79, 244, 59
+	offsets: 11, 13, 267, 84
+super_fx/super_25
+	bounds: 1114, 139, 243, 59
+	offsets: 12, 13, 267, 84
+super_fx/super_26
+	bounds: 866, 18, 244, 59
+	offsets: 12, 13, 267, 84
+super_fx/super_27
+	bounds: 928, 686, 247, 59
+	offsets: 9, 13, 267, 84
+super_fx/super_28
+	bounds: 891, 320, 247, 58
+	offsets: 9, 13, 267, 84
+super_fx/super_29
+	bounds: 891, 260, 247, 58
+	offsets: 9, 13, 267, 84
+super_fx/super_3
+	bounds: 1176, 624, 240, 60
+	offsets: 16, 12, 267, 84
+super_fx/super_4
+	bounds: 251, 2, 239, 60
+	offsets: 16, 12, 267, 84
+super_fx/super_5
+	bounds: 1175, 502, 245, 60
+	offsets: 10, 12, 267, 84
+super_fx/super_6
+	bounds: 1140, 319, 246, 59
+	offsets: 9, 13, 267, 84
+super_fx/super_7
+	bounds: 891, 200, 246, 58
+	offsets: 9, 13, 267, 84
+super_fx/super_8
+	bounds: 1139, 200, 246, 58
+	offsets: 9, 13, 267, 84
+super_fx/super_9
+	bounds: 866, 140, 246, 58
+	offsets: 9, 13, 267, 84
+win
+	bounds: 903, 809, 523, 187
+	offsets: 0, 0, 523, 188

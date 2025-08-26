@@ -1,0 +1,127 @@
+big_win.png
+	size: 1527, 770
+	filter: Linear, Linear
+	scale: 0.5
+banner_rays
+	bounds: 730, 360, 144, 137
+	offsets: 50, 6, 236, 148
+big
+	bounds: 903, 378, 452, 201
+big_fx/big_fx0
+	bounds: 730, 141, 150, 65
+	offsets: 24, 69, 200, 200
+big_fx/big_fx1
+	bounds: 868, 208, 150, 65
+	offsets: 24, 68, 200, 200
+	rotate: 90
+big_fx/big_fx10
+	bounds: 1308, 226, 150, 66
+	offsets: 25, 67, 200, 200
+	rotate: 90
+big_fx/big_fx11
+	bounds: 730, 208, 150, 67
+	offsets: 25, 66, 200, 200
+	rotate: 90
+big_fx/big_fx12
+	bounds: 1239, 227, 149, 67
+	offsets: 25, 66, 200, 200
+	rotate: 90
+big_fx/big_fx13
+	bounds: 646, 2, 149, 67
+	offsets: 25, 66, 200, 200
+	rotate: 90
+big_fx/big_fx14
+	bounds: 1376, 209, 149, 66
+	offsets: 25, 66, 200, 200
+big_fx/big_fx15
+	bounds: 1323, 7, 149, 65
+	offsets: 25, 66, 200, 200
+big_fx/big_fx16
+	bounds: 1357, 429, 150, 68
+	offsets: 25, 66, 200, 200
+	rotate: 90
+big_fx/big_fx17
+	bounds: 799, 208, 150, 67
+	offsets: 25, 67, 200, 200
+	rotate: 90
+big_fx/big_fx18
+	bounds: 935, 309, 150, 67
+	offsets: 25, 67, 200, 200
+big_fx/big_fx19
+	bounds: 935, 240, 150, 67
+	offsets: 25, 67, 200, 200
+big_fx/big_fx2
+	bounds: 935, 173, 150, 65
+	offsets: 24, 67, 200, 200
+big_fx/big_fx20
+	bounds: 1087, 172, 150, 66
+	offsets: 25, 67, 200, 200
+big_fx/big_fx21
+	bounds: 1427, 429, 150, 66
+	offsets: 25, 67, 200, 200
+	rotate: 90
+big_fx/big_fx22
+	bounds: 1376, 277, 150, 66
+	offsets: 25, 67, 200, 200
+	rotate: 90
+big_fx/big_fx23
+	bounds: 1444, 277, 150, 66
+	offsets: 25, 66, 200, 200
+	rotate: 90
+big_fx/big_fx24
+	bounds: 882, 106, 150, 65
+	offsets: 25, 66, 200, 200
+big_fx/big_fx25
+	bounds: 1034, 106, 150, 64
+	offsets: 25, 66, 200, 200
+big_fx/big_fx26
+	bounds: 867, 38, 150, 66
+	offsets: 25, 66, 200, 200
+big_fx/big_fx27
+	bounds: 1019, 38, 150, 66
+	offsets: 25, 66, 200, 200
+big_fx/big_fx28
+	bounds: 1239, 75, 150, 66
+	offsets: 25, 66, 200, 200
+	rotate: 90
+big_fx/big_fx29
+	bounds: 1375, 74, 150, 65
+	offsets: 25, 67, 200, 200
+big_fx/big_fx3
+	bounds: 1087, 309, 150, 67
+	offsets: 24, 67, 200, 200
+big_fx/big_fx4
+	bounds: 1087, 240, 150, 67
+	offsets: 24, 67, 200, 200
+big_fx/big_fx5
+	bounds: 715, 72, 150, 67
+	offsets: 24, 67, 200, 200
+big_fx/big_fx6
+	bounds: 715, 3, 150, 67
+	offsets: 24, 67, 200, 200
+big_fx/big_fx7
+	bounds: 1307, 74, 150, 66
+	offsets: 25, 68, 200, 200
+	rotate: 90
+big_fx/big_fx8
+	bounds: 1375, 141, 150, 66
+	offsets: 25, 67, 200, 200
+big_fx/big_fx9
+	bounds: 1171, 7, 150, 65
+	offsets: 25, 67, 200, 200
+fish1
+	bounds: 1428, 619, 149, 92
+	rotate: 90
+fish2
+	bounds: 454, 51, 190, 100
+ice1
+	bounds: 2, 16, 450, 135
+ice2
+	bounds: 2, 153, 726, 344
+ice3
+	bounds: 2, 499, 899, 269
+placeholder
+	bounds: 876, 496, 1, 1
+win
+	bounds: 903, 581, 523, 187
+	offsets: 0, 0, 523, 188

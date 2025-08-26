@@ -1,0 +1,26 @@
+congratulation_popup.png
+	size: 1872, 712
+	filter: Linear, Linear
+	scale: 0.5
+Ice
+	bounds: 2, 76, 961, 634
+Paper
+	bounds: 965, 147, 845, 563
+Path 125
+	bounds: 965, 72, 597, 73
+Path 126
+	bounds: 2, 8, 589, 66
+Path 128
+	bounds: 593, 8, 649, 62
+Path 129
+	bounds: 1812, 65, 645, 58
+	offsets: 1, 0, 646, 58
+	rotate: 90
+Path 140
+	bounds: 1244, 32, 583, 31
+Path 141
+	bounds: 1244, 2, 579, 28
+Snow Flake Sequence 1
+	bounds: 1564, 85, 60, 60
+placeholder
+	bounds: 1825, 29, 1, 1

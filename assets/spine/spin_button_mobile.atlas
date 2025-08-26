@@ -1,0 +1,29 @@
+spin_button_mobile.png
+size:596,460
+filter:Linear,Linear
+botton
+bounds:461,324,132,132
+offsets:99,99,330,330
+botton backlight
+bounds:2,2,457,454
+hold_for_autospin
+bounds:542,255,67,22
+offsets:1,0,68,22
+rotate:90
+limitless
+bounds:461,245,79,77
+offsets:1,0,80,77
+small_stop
+bounds:461,30,24,25
+spin hover
+bounds:461,177,69,66
+offsets:112,113,293,293
+spin reg
+bounds:461,115,63,60
+offsets:115,116,293,293
+stop hover
+bounds:461,57,56,56
+offsets:40,40,136,136
+stop reg
+bounds:461,57,56,56
+offsets:40,40,136,136

@@ -1,0 +1,644 @@
+{
+"skeleton": { "hash": "3Fo+6ODit9s", "spine": "4.2.36", "x": -480.5, "y": -321, "width": 960.5, "height": 636.95 },
+"bones": [
+	{ "name": "root", "scaleX": 0.5, "scaleY": 0.5 },
+	{ "name": "popup", "parent": "root" },
+	{ "name": "Ice", "parent": "popup", "x": -0.5, "y": -8.5 },
+	{ "name": "max_win_number", "parent": "popup", "y": -186 },
+	{ "name": "freespins", "parent": "popup", "x": 109.75, "y": 383.13 },
+	{ "name": "spins_count", "parent": "freespins", "x": -565.69, "y": -9.91 },
+	{ "name": "collect", "parent": "popup", "x": 84, "y": 151.5 },
+	{ "name": "max_win", "parent": "popup", "x": 3, "y": -49.5 },
+	{ "name": "Paper", "parent": "popup", "x": -1.5, "y": -6.5 },
+	{ "name": "press", "parent": "popup", "x": -4, "y": -414 },
+	{ "name": "wild", "parent": "collect", "x": -448, "y": -6.5 },
+	{ "name": "Snow Flake Sequence 1", "parent": "popup", "x": -862.75, "y": 462.39 },
+	{ "name": "Snow Flake Sequence 2", "parent": "popup", "x": -850.58, "y": -82.9 },
+	{ "name": "Snow Flake Sequence 3", "parent": "popup", "x": -875.92, "y": 136.71 },
+	{ "name": "Snow Flake Sequence 4", "parent": "popup", "x": 820.03, "y": 571.89 },
+	{ "name": "Snow Flake Sequence 5", "parent": "popup", "x": -427.93, "y": 571.89 },
+	{ "name": "Snow Flake Sequence 6", "parent": "popup", "x": 538.44, "y": 571.89 },
+	{ "name": "Snow Flake Sequence 7", "parent": "popup", "x": -31.14, "y": 437.5 }
+],
+"slots": [
+	{ "name": "Ice", "bone": "Ice", "attachment": "Ice" },
+	{ "name": "Paper", "bone": "Paper", "attachment": "Paper" },
+	{ "name": "spins_count", "bone": "spins_count", "attachment": "10" },
+	{ "name": "x", "bone": "max_win_number", "attachment": "x" },
+	{ "name": "max_win", "bone": "max_win", "attachment": "max_win" },
+	{ "name": "collect", "bone": "collect", "attachment": "collect" },
+	{ "name": "press", "bone": "press", "attachment": "press" },
+	{ "name": "wild", "bone": "wild", "attachment": "wild" },
+	{ "name": "max_win_number", "bone": "max_win_number", "attachment": "10000" },
+	{ "name": "Snow Flake Sequence 1", "bone": "Snow Flake Sequence 1", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 2", "bone": "Snow Flake Sequence 1", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 3", "bone": "Snow Flake Sequence 2", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 4", "bone": "Snow Flake Sequence 2", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 5", "bone": "Snow Flake Sequence 3", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 6", "bone": "Snow Flake Sequence 3", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 7", "bone": "Snow Flake Sequence 4", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 8", "bone": "Snow Flake Sequence 4", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 9", "bone": "Snow Flake Sequence 5", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 10", "bone": "Snow Flake Sequence 5", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 11", "bone": "Snow Flake Sequence 6", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 12", "bone": "Snow Flake Sequence 6", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "Snow Flake Sequence 13", "bone": "Snow Flake Sequence 7", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "screen" },
+	{ "name": "Snow Flake Sequence 14", "bone": "Snow Flake Sequence 7", "color": "00d9ff00", "attachment": "Snow Flake Sequence 1", "blend": "additive" },
+	{ "name": "freespins", "bone": "freespins", "attachment": "freespins" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"collect": {
+				"collect": { "width": 644, "height": 143 }
+			},
+			"freespins": {
+				"freespins": { "width": 880, "height": 174 }
+			},
+			"Ice": {
+				"Ice": { "width": 1921, "height": 1267 }
+			},
+			"max_win": {
+				"max_win": { "width": 582, "height": 113 }
+			},
+			"max_win_number": {
+				"10000": { "width": 857, "height": 214 }
+			},
+			"Paper": {
+				"Paper": { "width": 1689, "height": 1125 }
+			},
+			"press": {
+				"press": { "width": 1162, "height": 62 }
+			},
+			"Snow Flake Sequence 1": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 2": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 3": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 4": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 5": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 6": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 7": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 8": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 9": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 10": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 11": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 12": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 13": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"Snow Flake Sequence 14": {
+				"Snow Flake Sequence 1": { "width": 120, "height": 120 }
+			},
+			"spins_count": {
+				"10": { "rotation": 0.26, "width": 189, "height": 134 }
+			},
+			"wild": {
+				"wild": { "width": 222, "height": 214 }
+			},
+			"x": {
+				"x": { "x": 461.25, "y": -9.75, "width": 104, "height": 109 }
+			}
+		}
+	}
+],
+"animations": {
+	"in": {
+		"slots": {
+			"collect": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"freespins": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Ice": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"max_win": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"max_win_number": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"Paper": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"press": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"spins_count": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"wild": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			},
+			"x": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.4, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"collect": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"Ice": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"max_win": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"max_win_number": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"Paper": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"press": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"spins_count": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"wild": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			},
+			"freespins": {
+				"scale": [
+					{ "x": 5, "y": 5 },
+					{ "time": 0.2667, "x": 0.9, "y": 0.9 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.5 }
+				]
+			}
+		}
+	},
+	"loop": {
+		"slots": {
+			"Snow Flake Sequence 1": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 2": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 3": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 4": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 5": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 6": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 7": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 8": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 9": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 10": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 11": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 12": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 13": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			},
+			"Snow Flake Sequence 14": {
+				"rgba": [
+					{ "color": "00d9ff00" },
+					{ "time": 0.3333, "color": "00d9ffff", "curve": "stepped" },
+					{ "time": 0.6667, "color": "00d9ffff" },
+					{ "time": 1, "color": "00d9ff00" }
+				]
+			}
+		},
+		"bones": {
+			"Ice": {
+				"translate": [
+					{
+						"curve": [ 0.167, 0, 0.333, 0, 0.167, 0, 0.333, 18.73 ]
+					},
+					{
+						"time": 0.5,
+						"y": 18.73,
+						"curve": [ 0.667, 0, 0.833, 0, 0.667, 18.73, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"press": {
+				"translate": [
+					{
+						"curve": [ 0.167, 0, 0.333, 0, 0.167, 0, 0.333, 18.73 ]
+					},
+					{
+						"time": 0.5,
+						"y": 18.73,
+						"curve": [ 0.667, 0, 0.833, 0, 0.667, 18.73, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"spins_count": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.1, 0.167, 1, 0.333, 1.1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.667, 1.1, 0.833, 1, 0.667, 1.1, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"wild": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.1, 0.167, 1, 0.333, 1.1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.667, 1.1, 0.833, 1, 0.667, 1.1, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Paper": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.05, 0.167, 1, 0.333, 1.05 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.667, 1.05, 0.833, 1, 0.667, 1.05, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"max_win_number": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.05, 0.167, 1, 0.333, 1.05 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.667, 1.05, 0.833, 1, 0.667, 1.05, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"max_win": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.1, 0.167, 1, 0.333, 1.1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.667, 1.1, 0.833, 1, 0.667, 1.1, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"collect": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.1, 0.167, 1, 0.333, 1.1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.667, 1.1, 0.833, 1, 0.667, 1.1, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"Snow Flake Sequence 1": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"Snow Flake Sequence 2": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"Snow Flake Sequence 3": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"Snow Flake Sequence 4": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"Snow Flake Sequence 5": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"Snow Flake Sequence 6": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"Snow Flake Sequence 7": {
+				"rotate": [
+					{},
+					{ "time": 1, "value": 123.75 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "y": -401.96 }
+				]
+			},
+			"freespins": {
+				"scale": [
+					{
+						"curve": [ 0.167, 1, 0.333, 1.1, 0.167, 1, 0.333, 1.1 ]
+					},
+					{
+						"time": 0.5,
+						"x": 1.1,
+						"y": 1.1,
+						"curve": [ 0.667, 1.1, 0.833, 1, 0.667, 1.1, 0.833, 1 ]
+					},
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"out": {
+		"slots": {
+			"collect": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"freespins": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Ice": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"max_win": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"max_win_number": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"Paper": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"press": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"spins_count": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"wild": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"x": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

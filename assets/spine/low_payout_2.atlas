@@ -1,0 +1,66 @@
+low_payout_2.png
+	size: 1279, 156
+	filter: Linear, Linear
+	scale: 0.5
+K
+	bounds: 2, 33, 120, 121
+fx/K_0
+	bounds: 124, 79, 75, 75
+fx/K_1
+	bounds: 201, 79, 75, 75
+fx/K_10
+	bounds: 278, 79, 75, 75
+fx/K_11
+	bounds: 355, 79, 75, 75
+fx/K_12
+	bounds: 432, 79, 75, 75
+fx/K_13
+	bounds: 509, 79, 75, 75
+fx/K_14
+	bounds: 586, 79, 75, 75
+fx/K_15
+	bounds: 663, 79, 75, 75
+fx/K_16
+	bounds: 740, 79, 75, 75
+fx/K_17
+	bounds: 817, 79, 75, 75
+fx/K_18
+	bounds: 894, 79, 75, 75
+fx/K_19
+	bounds: 971, 79, 75, 75
+fx/K_2
+	bounds: 1048, 79, 75, 75
+fx/K_20
+	bounds: 1125, 79, 75, 75
+fx/K_21
+	bounds: 1202, 79, 75, 75
+fx/K_22
+	bounds: 124, 2, 75, 75
+fx/K_23
+	bounds: 201, 2, 75, 75
+fx/K_24
+	bounds: 278, 2, 75, 75
+fx/K_25
+	bounds: 355, 2, 75, 75
+fx/K_26
+	bounds: 432, 2, 75, 75
+fx/K_27
+	bounds: 509, 2, 75, 75
+fx/K_28
+	bounds: 586, 2, 75, 75
+fx/K_29
+	bounds: 663, 2, 75, 75
+fx/K_3
+	bounds: 740, 2, 75, 75
+fx/K_4
+	bounds: 817, 2, 75, 75
+fx/K_5
+	bounds: 894, 2, 75, 75
+fx/K_6
+	bounds: 971, 2, 75, 75
+fx/K_7
+	bounds: 1048, 2, 75, 75
+fx/K_8
+	bounds: 1125, 2, 75, 75
+fx/K_9
+	bounds: 1202, 2, 75, 75

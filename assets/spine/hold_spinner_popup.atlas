@@ -1,0 +1,123 @@
+hold_spinner_popup.png
+	size: 1875, 848
+	filter: Linear, Linear
+	scale: 0.5
+Ice
+	bounds: 2, 212, 961, 634
+Paper
+	bounds: 965, 283, 845, 563
+Path 125
+	bounds: 2, 73, 597, 73
+Path 126
+	bounds: 2, 5, 589, 66
+Path 128
+	bounds: 2, 148, 649, 62
+Path 129
+	bounds: 965, 223, 645, 58
+	offsets: 1, 0, 646, 58
+Path 140
+	bounds: 1812, 263, 583, 31
+	rotate: 90
+Path 141
+	bounds: 1845, 267, 579, 28
+	rotate: 90
+Snow Flake Sequence 1
+	bounds: 1791, 201, 60, 60
+hold &
+	bounds: 653, 145, 266, 65
+spinner
+	bounds: 965, 121, 533, 100
+spinner_fx/spinner_0
+	bounds: 780, 76, 161, 32
+	offsets: 17, 9, 200, 50
+spinner_fx/spinner_1
+	bounds: 1644, 2, 161, 32
+	offsets: 17, 9, 200, 50
+spinner_fx/spinner_10
+	bounds: 780, 110, 164, 33
+	offsets: 25, 9, 200, 50
+spinner_fx/spinner_11
+	bounds: 772, 37, 175, 34
+	offsets: 14, 8, 200, 50
+spinner_fx/spinner_12
+	bounds: 1128, 49, 174, 34
+	offsets: 15, 8, 200, 50
+spinner_fx/spinner_13
+	bounds: 1304, 49, 173, 34
+	offsets: 15, 8, 200, 50
+spinner_fx/spinner_14
+	bounds: 949, 85, 170, 34
+	offsets: 18, 8, 200, 50
+spinner_fx/spinner_15
+	bounds: 1121, 13, 173, 34
+	offsets: 15, 8, 200, 50
+spinner_fx/spinner_16
+	bounds: 1296, 13, 172, 34
+	offsets: 16, 8, 200, 50
+spinner_fx/spinner_17
+	bounds: 1500, 49, 172, 34
+	offsets: 16, 8, 200, 50
+	rotate: 90
+spinner_fx/spinner_18
+	bounds: 1536, 49, 172, 34
+	offsets: 16, 8, 200, 50
+	rotate: 90
+spinner_fx/spinner_19
+	bounds: 1572, 49, 172, 34
+	offsets: 16, 8, 200, 50
+	rotate: 90
+spinner_fx/spinner_2
+	bounds: 1608, 70, 171, 32
+	offsets: 17, 9, 200, 50
+spinner_fx/spinner_20
+	bounds: 1612, 247, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_21
+	bounds: 1612, 212, 177, 33
+	offsets: 11, 9, 200, 50
+spinner_fx/spinner_22
+	bounds: 601, 109, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_23
+	bounds: 601, 73, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_24
+	bounds: 593, 37, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_25
+	bounds: 1121, 85, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_26
+	bounds: 1300, 85, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_27
+	bounds: 949, 49, 177, 34
+	offsets: 11, 8, 200, 50
+spinner_fx/spinner_28
+	bounds: 771, 2, 175, 33
+	offsets: 11, 9, 200, 50
+spinner_fx/spinner_29
+	bounds: 593, 2, 176, 33
+	offsets: 13, 9, 200, 50
+spinner_fx/spinner_3
+	bounds: 948, 2, 171, 33
+	offsets: 17, 8, 200, 50
+spinner_fx/spinner_4
+	bounds: 1608, 36, 171, 32
+	offsets: 17, 9, 200, 50
+spinner_fx/spinner_5
+	bounds: 1470, 2, 172, 32
+	offsets: 17, 9, 200, 50
+spinner_fx/spinner_6
+	bounds: 1608, 176, 172, 34
+	offsets: 17, 8, 200, 50
+spinner_fx/spinner_7
+	bounds: 1608, 140, 172, 34
+	offsets: 17, 8, 200, 50
+spinner_fx/spinner_8
+	bounds: 1608, 104, 171, 34
+	offsets: 18, 8, 200, 50
+spinner_fx/spinner_9
+	bounds: 1807, 30, 169, 34
+	offsets: 20, 8, 200, 50
+	rotate: 90

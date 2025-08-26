@@ -1,0 +1,31 @@
+freespin_popup.png
+	size: 1995, 659
+	filter: Linear, Linear
+	scale: 0.5
+10
+	bounds: 1921, 238, 95, 67
+	rotate: 90
+10000
+	bounds: 1812, 228, 429, 107
+	rotate: 90
+Ice
+	bounds: 2, 23, 961, 634
+Paper
+	bounds: 965, 94, 845, 563
+Snow Flake Sequence 1
+	bounds: 1921, 176, 60, 60
+collect
+	bounds: 1921, 335, 322, 72
+	rotate: 90
+freespins
+	bounds: 1548, 5, 440, 87
+max_win
+	bounds: 965, 2, 291, 57
+press
+	bounds: 965, 61, 581, 31
+wild
+	bounds: 1812, 115, 111, 107
+	rotate: 90
+x
+	bounds: 1258, 5, 50, 54
+	offsets: 1, 1, 52, 55

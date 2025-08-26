@@ -1,0 +1,410 @@
+{
+"skeleton": {
+	"hash": "fTyANhyMxK0",
+	"spine": "4.2.36",
+	"x": -454.8,
+	"y": -451.86,
+	"width": 914,
+	"height": 908,
+	"images": "./image/",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root", "scaleX": 2, "scaleY": 2 },
+	{ "name": "scaled bone", "parent": "root" },
+	{ "name": "button", "parent": "scaled bone" },
+	{ "name": "spin reg", "parent": "button", "y": 17.21 },
+	{ "name": "stop_reg", "parent": "button" }
+],
+"slots": [
+	{ "name": "button backlight", "bone": "button", "color": "ffffff00", "attachment": "button backlight", "blend": "additive" },
+	{ "name": "button", "bone": "button", "attachment": "button" },
+	{ "name": "spin reg", "bone": "spin reg", "color": "ffffff00", "attachment": "spin reg" },
+	{ "name": "spin hover", "bone": "spin reg", "color": "ffffff00", "attachment": "spin hover", "blend": "additive" },
+	{ "name": "spin hover2", "bone": "spin reg", "color": "ffffff00", "attachment": "spin hover", "blend": "additive" },
+	{ "name": "stop reg", "bone": "stop_reg", "color": "ffffff00", "attachment": "stop reg" },
+	{ "name": "stop hover", "bone": "stop_reg", "color": "ffffff00", "attachment": "stop hover" },
+	{ "name": "hold_for_autospin", "bone": "button", "color": "ffffff00", "attachment": "hold_for_autospin" },
+	{ "name": "limitless", "bone": "button", "color": "ffffff00", "attachment": "limitless" },
+	{ "name": "small_stop", "bone": "button", "color": "ffffff00", "attachment": "small_stop" },
+	{ "name": "spins_left", "bone": "button", "color": "ffffff00" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"button": {
+				"button": { "path": "botton", "width": 330, "height": 330 }
+			},
+			"button backlight": {
+				"button backlight": {
+					"type": "mesh",
+					"path": "botton backlight",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 229.6, -225.93, -227.4, -225.93, -227.4, 228.07, 229.6, 228.07 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 457,
+					"height": 454
+				}
+			},
+			"hold_for_autospin": {
+				"hold_for_autospin": { "y": -33.71, "width": 68, "height": 22 }
+			},
+			"limitless": {
+				"limitless": { "y": 2.75, "width": 80, "height": 77 }
+			},
+			"small_stop": {
+				"small_stop": { "y": 28.5, "width": 24, "height": 25 }
+			},
+			"spin hover": {
+				"spin hover": { "width": 293, "height": 293 }
+			},
+			"spin hover2": {
+				"spin hover": { "width": 293, "height": 293 }
+			},
+			"spin reg": {
+				"spin reg": { "width": 293, "height": 293 }
+			},
+			"stop hover": {
+				"stop hover": { "x": -1.06, "y": -1.78, "width": 136, "height": 136 }
+			},
+			"stop reg": {
+				"stop reg": { "x": -1.06, "y": -1.78, "width": 136, "height": 136 }
+			}
+		}
+	}
+],
+"animations": {
+	"spin_loop": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin hover2": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"button": {
+				"scale": [
+					{},
+					{ "time": 0.1, "x": 0.894, "y": 0.894 },
+					{ "time": 0.2, "x": 1.126, "y": 1.126 },
+					{ "time": 0.2667, "x": 0.96, "y": 0.96 },
+					{ "time": 0.3 }
+				]
+			},
+			"spin reg": {
+				"rotate": [
+					{
+						"curve": [ 0.033, 0, 0.067, 128.94 ]
+					},
+					{
+						"time": 0.1,
+						"value": 128.94,
+						"curve": [ 0.289, 128.94, 0.176, -395.25 ]
+					},
+					{ "time": 1, "value": -361.22 }
+				]
+			},
+			"stop_reg": {
+				"rotate": [
+					{
+						"curve": [ 0.033, 0, 0.067, 128.94 ]
+					},
+					{
+						"time": 0.1,
+						"value": 128.94,
+						"curve": [ 0.289, 128.94, 0.176, -395.25 ]
+					},
+					{ "time": 1, "value": -361.22 }
+				]
+			}
+		}
+	},
+	"spin_start": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			},
+			"stop hover": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"button backlight": {
+					"button backlight": {
+						"deform": [
+							{ "time": 0.6667 }
+						]
+					}
+				}
+			}
+		}
+	},
+	"spin_start_autoplay": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			},
+			"small_stop": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			},
+			"spins_left": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"button backlight": {
+					"button backlight": {
+						"deform": [
+							{ "time": 0.6667 }
+						]
+					}
+				}
+			}
+		}
+	},
+	"spin_start_limitless_stop": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			},
+			"limitless": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			},
+			"small_stop": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"button backlight": {
+					"button backlight": {
+						"deform": [
+							{ "time": 0.6667 }
+						]
+					}
+				}
+			}
+		}
+	},
+	"spin_start_stop": {
+		"slots": {
+			"stop hover": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"button backlight": {
+					"button backlight": {
+						"deform": [
+							{ "time": 0.6667 }
+						]
+					}
+				}
+			}
+		}
+	},
+	"spin_stop": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			},
+			"spin hover2": {
+				"rgba": [
+					{ "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff" }
+				]
+			},
+			"stop hover": {
+				"rgba": [
+					{ "color": "ffffffff" },
+					{ "time": 0.0333, "color": "ffffff00" }
+				]
+			}
+		},
+		"attachments": {
+			"default": {
+				"button backlight": {
+					"button backlight": {
+						"deform": [
+							{ "time": 1 }
+						]
+					}
+				}
+			}
+		}
+	},
+	"static": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			}
+		}
+	},
+	"wait": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin hover": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"spin reg": {
+				"rotate": [
+					{
+						"curve": [ 0.167, 0, 0.133, -13.41 ]
+					},
+					{
+						"time": 0.5,
+						"value": -13.34,
+						"curve": [ 0.868, -13.27, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"stop_reg": {
+				"rotate": [
+					{
+						"curve": [ 0.167, 0, 0.133, -13.41 ]
+					},
+					{
+						"time": 0.5,
+						"value": -13.34,
+						"curve": [ 0.868, -13.27, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"wait_delay": {
+		"slots": {
+			"hold_for_autospin": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin hover": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			},
+			"spin reg": {
+				"rgba": [
+					{ "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"spin reg": {
+				"rotate": [
+					{
+						"curve": [ 0.167, 0, 0.133, -13.41 ]
+					},
+					{
+						"time": 0.5,
+						"value": -13.34,
+						"curve": [ 0.868, -13.27, 0.833, 0 ]
+					},
+					{ "time": 1 }
+				]
+			},
+			"stop_reg": {
+				"rotate": [
+					{
+						"curve": [ 0.167, 0, 0.133, -13.41 ]
+					},
+					{
+						"time": 0.5,
+						"value": -13.34,
+						"curve": [ 0.868, -13.27, 0.833, 0 ]
+					},
+					{ "time": 1, "curve": "stepped" },
+					{ "time": 5.6667 }
+				]
+			}
+		}
+	}
+}
+}
