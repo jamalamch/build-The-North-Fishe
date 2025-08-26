@@ -2,7 +2,7 @@
   "layouts": [
     {
       "name": "AdjustBetPanel",
-      "url": "./layouts/adjustBetPanel.json?v=1.0.10.1756212943940"
+      "url": "./layouts/AdjustBetPanel.json?v=1.0.10.1756212943940"
     },
     {
       "name": "AdjustBetPanelMobile",
